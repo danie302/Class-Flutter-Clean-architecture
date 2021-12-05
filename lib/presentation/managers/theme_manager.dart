@@ -88,11 +88,11 @@ ThemeData getApplicationTheme() {
         color: ColorManager.grey,
       ),
       bodyText1: getRegularTextStyle(
-        fontSize: FontSize.s10,
+        fontSize: FontSize.s14,
         color: ColorManager.grey,
       ),
       bodyText2: getRegularTextStyle(
-        fontSize: FontSize.s8,
+        fontSize: FontSize.s12,
         color: ColorManager.grey,
       ),
       button: getRegularTextStyle(
